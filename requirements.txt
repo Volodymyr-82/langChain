@@ -26,3 +26,4 @@ tools
 PyMuPDF
 langchain_groq
 sentence_transformers
+langchain.memory
