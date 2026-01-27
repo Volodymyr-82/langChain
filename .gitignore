@@ -1,0 +1,13 @@
+# Скомпілованний код Python
+__pycache__/
+*.py[cod]
+
+# Віртуальне оточення
+.venv/
+venv/
+env/
+
+# Файли налаштувань IDE
+.vscode/
+.idea/
+.env
