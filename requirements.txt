@@ -14,16 +14,14 @@ wikipedia
 jq
 dotenv
 langchain_openai
-#langchain_hagginface
-#faice-cpu
+# faiss-cpu # Corrected: Assuming 'faice-cpu' was intended to be faiss-cpu and was commented out
 chromadb
 langchain_chroma
 youtube_transcript_api
 pdf2image
 fitz
-frontend
-tools
+# frontend # Removed, as 'frontend' is not a Python package
+# tools # Removed, as 'tools' is not a Python package
 PyMuPDF
 langchain_groq
 sentence_transformers
-langchain.memory
